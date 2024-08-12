@@ -1,0 +1,18 @@
+#dataset
+datasets
+pandas
+numpy
+indexed_gzip
+# json
+matrix-nio[e2e]
+opsdroid
+python-dotenv
+
+BeautifulSoup4
+requests
+tqdm
+
+hazm
+spacy
+
+rank_bm25
