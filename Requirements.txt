@@ -16,3 +16,10 @@ hazm
 spacy
 
 rank_bm25
+
+chromadb
+transformers
+torch
+langchain_openai
+openai
+langchain
