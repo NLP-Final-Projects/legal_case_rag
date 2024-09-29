@@ -6,6 +6,7 @@ The **Legal Case Retrieval-Augmented Generation (RAG)** project applies cutting-
 
 The project manages a database containing over **25,000 anonymized judicial decisions**, providing legal professionals with precise legal case retrieval and efficient query responses.
 
+To use this project online, visit our [Hugging Face Space](https://huggingface.co/spaces/parsi-ai-nlpclass/Legal_RAG).
 ---
 
 ## Key Features
